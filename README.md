@@ -19,4 +19,3 @@
   3. third
  
    [neuefische website] (https://neuefische.de)
-  ![image of a landscape] 
