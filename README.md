@@ -1,22 +1,5 @@
-# github-demo-hh-web-24-6
+# Web Challenges
 
-## My first day with GitHub
+In this repository you will share your challenges.
 
-### A Level 3 Headline
-
-#### A Level 6 Headline
-
-- first point
-
-- second point
-- third point
-  1. first
-  2. second
-  3. third
- 
-  1. first
-  2. second
-  3. third
- 
-   [neuefische website] (https://neuefische.de)
-![landscape](https://github.com/PnrAydn/web-challenges/assets/170604416/d0341c96-b090-4b56-b96a-e74eb836f8c2)
+Please refer to the instructions in your course repository to know more about the workflow.
