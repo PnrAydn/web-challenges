@@ -33,3 +33,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+html-and-the-web_personal-website/
